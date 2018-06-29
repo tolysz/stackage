@@ -2936,6 +2936,7 @@ packages:
 
     "Marcin Tolysz <tolysz@gmail.com> @tolysz":
         - rawstring-qm
+        - possible
 
     "Tom Nielsen <tanielsen@gmail.com> @glutamate":
         - datasets
